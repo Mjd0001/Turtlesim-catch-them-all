@@ -1,0 +1,1 @@
+/home/glory/turtlesim_catch_them_all/build/my_turtle_interfaces/ament_cmake_environment_hooks/pythonpath.sh

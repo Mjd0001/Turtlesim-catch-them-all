@@ -1,0 +1,1 @@
+/home/glory/turtlesim_catch_them_all/build/my_turtle_interfaces/rosidl_generator_py/my_turtle_interfaces/msg/_turtle_info_s.c

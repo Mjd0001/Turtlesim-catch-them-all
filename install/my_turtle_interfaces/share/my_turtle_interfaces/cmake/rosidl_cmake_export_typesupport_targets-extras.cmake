@@ -1,0 +1,1 @@
+/home/glory/turtlesim_catch_them_all/build/my_turtle_interfaces/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

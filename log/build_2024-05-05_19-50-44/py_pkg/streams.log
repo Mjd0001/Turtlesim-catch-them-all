@@ -1,0 +1,24 @@
+[0.762s] Invoking command in '/home/glory/turtlesim_catch_them_all/src/py_pkg': PYTHONPATH=/home/glory/turtlesim_catch_them_all/build/py_pkg/prefix_override:/home/glory/turtlesim_catch_them_all/install/py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/glory/turtlesim_catch_them_all/build/py_pkg/build install --record /home/glory/turtlesim_catch_them_all/build/py_pkg/install.log --single-version-externally-managed install_data
+[1.058s] running egg_info
+[1.060s] writing ../../build/py_pkg/py_pkg.egg-info/PKG-INFO
+[1.061s] writing dependency_links to ../../build/py_pkg/py_pkg.egg-info/dependency_links.txt
+[1.062s] writing entry points to ../../build/py_pkg/py_pkg.egg-info/entry_points.txt
+[1.063s] writing requirements to ../../build/py_pkg/py_pkg.egg-info/requires.txt
+[1.063s] writing top-level names to ../../build/py_pkg/py_pkg.egg-info/top_level.txt
+[1.067s] reading manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[1.068s] writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[1.069s] running build
+[1.069s] running build_py
+[1.070s] copying py_pkg/turtle_controller.py -> /home/glory/turtlesim_catch_them_all/build/py_pkg/build/lib/py_pkg
+[1.071s] running install
+[1.071s] running install_lib
+[1.073s] copying /home/glory/turtlesim_catch_them_all/build/py_pkg/build/lib/py_pkg/turtle_controller.py -> /home/glory/turtlesim_catch_them_all/install/py_pkg/lib/python3.10/site-packages/py_pkg
+[1.074s] byte-compiling /home/glory/turtlesim_catch_them_all/install/py_pkg/lib/python3.10/site-packages/py_pkg/turtle_controller.py to turtle_controller.cpython-310.pyc
+[1.075s] running install_data
+[1.076s] running install_egg_info
+[1.079s] removing '/home/glory/turtlesim_catch_them_all/install/py_pkg/lib/python3.10/site-packages/py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.084s] Copying ../../build/py_pkg/py_pkg.egg-info to /home/glory/turtlesim_catch_them_all/install/py_pkg/lib/python3.10/site-packages/py_pkg-0.0.0-py3.10.egg-info
+[1.084s] running install_scripts
+[1.105s] Installing turtle_controller script to /home/glory/turtlesim_catch_them_all/install/py_pkg/lib/py_pkg
+[1.106s] writing list of installed files to '/home/glory/turtlesim_catch_them_all/build/py_pkg/install.log'
+[1.131s] Invoked command in '/home/glory/turtlesim_catch_them_all/src/py_pkg' returned '0': PYTHONPATH=/home/glory/turtlesim_catch_them_all/build/py_pkg/prefix_override:/home/glory/turtlesim_catch_them_all/install/py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/glory/turtlesim_catch_them_all/build/py_pkg/build install --record /home/glory/turtlesim_catch_them_all/build/py_pkg/install.log --single-version-externally-managed install_data
