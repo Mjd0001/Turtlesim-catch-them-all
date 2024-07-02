@@ -1,2 +1,0 @@
-Invoking command in '/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup': /usr/bin/cmake /home/glory/turtlesim_catch_them_all/src/turtle_game_bringup -DCMAKE_INSTALL_PREFIX=/home/glory/turtlesim_catch_them_all/install/turtle_game_bringup
-Invoked command in '/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup' returned '1': /usr/bin/cmake /home/glory/turtlesim_catch_them_all/src/turtle_game_bringup -DCMAKE_INSTALL_PREFIX=/home/glory/turtlesim_catch_them_all/install/turtle_game_bringup

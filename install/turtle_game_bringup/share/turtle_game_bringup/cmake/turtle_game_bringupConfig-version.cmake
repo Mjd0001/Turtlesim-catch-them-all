@@ -1,1 +1,0 @@
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/ament_cmake_core/turtle_game_bringupConfig-version.cmake

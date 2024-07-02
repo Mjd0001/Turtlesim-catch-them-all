@@ -1,1 +1,0 @@
-/home/glory/turtlesim_catch_them_all/src/my_turtle_interfaces/msg/TurtleInfo.msg

@@ -1,6 +1,0 @@
-{
-  "package_name": "my_turtle_interfaces",
-  "non_idl_tuples": [
-    "/home/glory/turtlesim_catch_them_all/src/my_turtle_interfaces:msg/TurtleInfo.msg"
-  ]
-}

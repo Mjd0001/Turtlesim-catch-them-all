@@ -1,1 +1,0 @@
-/home/glory/turtlesim_catch_them_all/build/my_turtle_interfaces/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake

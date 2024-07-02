@@ -1,9 +1,0 @@
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/uninstall.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/turtle_game_bringup_uninstall.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/test.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/edit_cache.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/rebuild_cache.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/list_install_components.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/install.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/install/local.dir
-/home/glory/turtlesim_catch_them_all/build/turtle_game_bringup/CMakeFiles/install/strip.dir
